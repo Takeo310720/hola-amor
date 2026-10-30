@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tú y Yo</string>
+    <string name="tab_chat">Chat</string>
+    <string name="tab_recados">Recados</string>
+    <string name="tab_fotos">Fotos</string>
+    <string name="tab_nosotros">Nosotros</string>
+    <string name="action_send">Enviar</string>
+    <string name="action_attach_photo">Adjuntar foto</string>
+    <string name="status_online">En línea ❤️</string>
+</resources>

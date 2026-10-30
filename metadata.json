@@ -1,0 +1,8 @@
+{
+  "name": "hola amor ",
+  "description": "app para ti y para mi",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
